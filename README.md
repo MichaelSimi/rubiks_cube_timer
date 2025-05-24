@@ -11,6 +11,7 @@ Here is an overview of all features:
 3. Near the top of the screen, it says your average. It automatically calculates the average using all your solves. 
 4. As well as the average, it says your best and worst times too. This is near the right of the screen.
 5. If you click “Show times”, you will see all of the times you made, in seconds. The time that is the color green is the solve you just did, and the red ones are the solves you did previously. When the times reach the bottom, you can use your scroller to move up and down to see all of the times you got. To make the times disappear again, simply click “Show times” once more.
+6. If the timer goes into minutes or hours, it autimatically formats the time to be: hours:minutes:seconds.
 
 Note: The display is made using the pygame library.
 
