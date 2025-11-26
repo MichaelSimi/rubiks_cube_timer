@@ -1,6 +1,6 @@
 Welcome!
 
-So I was bored the other day and decided to create a Rubik's Cube timer, similar to CStimer.
+I decided to create a Rubik's Cube timer, similar to CStimer.
 
 It turned out great!
 
